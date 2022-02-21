@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DeEpThOuGhT2020
 - 👀 I’m interested in cryptography, physics, reading, demographics, quantum computing, inner peace, interesting facts
-- 🌱 I’m currently learning data structures, cryptography , VHDL , quantum computing
-- 💞️ I’m looking to collaborate on anything from the above
 - 📫 How to reach me : suningh.2028@gmail.com
 
 <!---

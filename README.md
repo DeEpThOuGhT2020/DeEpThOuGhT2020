@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DeEpThOuGhT2020
-- 👀 I’m interested in cryptography, physics, reading, demographics, quantum computing, inner peace, interesting facts
 - 📫 How to reach me : suningh.2028@gmail.com
 
 <!---
